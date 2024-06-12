@@ -1,0 +1,20 @@
+.me,
+.no-me  {
+  font-size: 28px;
+  font: Helvetica, "Times New Roman", sans-serif;
+  
+}
+
+.me  {
+
+  color: white;
+  background-color: black;
+  font-weight: bold;
+
+}
+
+.no-me  {
+
+    background-color: rgb(247, 247, 0);
+
+}
