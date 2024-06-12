@@ -1,0 +1,20 @@
+.class {
+    background-color: rgb(255, 147, 176);
+    font: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#one-id {
+    color: rgb(19, 19, 255);
+    font-size: 36px;
+}
+
+.class.cooler {
+    font-size: 24px;
+
+}
+
+#another-id {
+    font-size: 24;
+    font-weight: bold;
+    background-color: rgb(123, 231, 123);
+}
